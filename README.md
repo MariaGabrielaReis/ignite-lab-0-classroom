@@ -1,4 +1,4 @@
-<div align="center"> <img src="" alt="Banner com o nome do projeto" /> </div>
+<div align="center"> <img src="https://user-images.githubusercontent.com/69374340/221720535-9fb3a2e1-5185-44c8-b819-2a03c13e4de8.png" alt="Banner com o nome do projeto" /> </div>
 
 API que permite vender produtos digitais (neste caso, cursos) em uma plataforma que contém o fluxo do usuário desde a compra até a matrícula 👨‍🎓 <br>
 **Aplicação construída no evento Ignite Lab 0.0, promovido pela Rocketseat** 🚀
